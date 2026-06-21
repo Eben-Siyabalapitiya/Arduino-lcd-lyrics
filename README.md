@@ -90,6 +90,6 @@ The second argument is how long (in ms) the lyric stays on screen total.
 
 ---
 
-## 📄 License
+## License
 
 MIT — do whatever you want with it.
