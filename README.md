@@ -28,7 +28,7 @@ Currently loaded with **"Love Me Not (Remix)"** by **Ravyn Lenae ft. Rex Orange 
 
 ---
 
-## 🔌 Wiring
+##  Wiring
 
 | LCD Pin | Arduino Pin |
 |---|---|
