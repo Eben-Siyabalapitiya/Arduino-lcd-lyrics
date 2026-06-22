@@ -1,6 +1,7 @@
 # LCD Lyrics Display
 
 An Arduino project that scrolls song lyrics across a **16x2 LCD 1602 screen** with a typewriter typing animation.
+Currently loaded with **"Love Me Not (Remix)"** by **Ravyn Lenae ft. Rex Orange County**.
 
 
 
